@@ -1,0 +1,12 @@
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "foldHeading": false,
+  "spellcheck": true,
+  "autoConvertHtml": false,
+  "showInlineTitle": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "newFileFolderPath": ""
+}

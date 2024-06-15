@@ -1,0 +1,13 @@
+{
+  "accentColor": "#9cafbf",
+  "cssTheme": "Obsidian Nord",
+  "theme": "obsidian",
+  "baseFontSize": 15,
+  "textFontFamily": "Geist Mono",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "Geist Mono",
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "custom"
+  ]
+}

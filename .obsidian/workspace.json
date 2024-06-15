@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "9d3617c0c494fbd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d47af74e86364bad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d26d12dce30f3825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Joseph's_Folder/Music/FUN MUSIC THINGS/WAITING-LIST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c04e39d6d654ded",
+    "type": "split",
+    "children": [
+      {
+        "id": "e72919d23117371e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a14a30e1414c335",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "983719fcf9d13d11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2099dfb3bcc0e6a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "92f1e443d98ed354",
+        "type": "tabs",
+        "dimension": 37.79795686719637,
+        "children": [
+          {
+            "id": "375d5cfad7489016",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Joseph's_Folder/Music/FUN MUSIC THINGS/WAITING-LIST.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "160f84aaeca2cf73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Joseph's_Folder/Music/FUN MUSIC THINGS/WAITING-LIST.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39af0f3cec10cc38",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4c85c74e11ad06b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "7c0741f5a9c1d5d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Joseph's_Folder/Music/FUN MUSIC THINGS/WAITING-LIST.md"
+              }
+            }
+          },
+          {
+            "id": "b111a3b3e880f24d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Joseph's_Folder/Music/FUN MUSIC THINGS/WAITING-LIST.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "17199f42f6bd13df",
+        "type": "tabs",
+        "dimension": 22.701475595913735,
+        "children": [
+          {
+            "id": "5d1dd888ad038fce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "878cd9c6bb39c92f",
+        "type": "tabs",
+        "dimension": 39.500567536889896,
+        "children": [
+          {
+            "id": "77113c788984f26e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "canvas:Create new canvas": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "d26d12dce30f3825",
+  "lastOpenFiles": [
+    "Joseph-OB",
+    "Joseph's_Folder/Music/My Learning/Learning the Guitar.md",
+    "Joseph's_Folder/Music/FUN MUSIC THINGS/WAITING-LIST.md",
+    "Joseph's_Folder/Music/FUN MUSIC THINGS/Untitled",
+    "Joseph's_Folder/Music/FUN MUSIC THINGS",
+    "Joseph's_Folder/Music/My Learning/Stuff I want to learn.md",
+    "Joseph's_Folder/Music/My Learning/Take-Note-on-who?.md",
+    "Joseph's_Folder/Music/Fun in Music.md",
+    "Joseph's_Folder/Music/Production/Production Hub.md",
+    "Homepage.md",
+    "Joseph's_Folder/Music/My Learning",
+    "Joseph's_Folder/Music/Production",
+    "Joseph's_Folder/DailyTasks&Notes/15-06-2024.md",
+    "Joseph's_Folder/DailyTasks&Notes/14-06-2024.md",
+    "Joseph's_Folder/DailyTasks&Notes/13-06-2024.md",
+    "Joseph's_Folder/DailyTasks&Notes/12-06-2024.md",
+    "Joseph's_Folder/DailyTasks&Notes/11-06-2024.md",
+    "Joseph's_Folder/DailyTasks&Notes/10-06-2024.md",
+    "Joseph's_Folder/Books/Bookshelf/Book-Pages/Frankenstein.md",
+    "Joseph's_Folder/DailyTasks&Notes/08-06-2024.md",
+    "Joseph's_Folder/DailyTasks&Notes/09-06-2024.md",
+    "Joseph's_Folder/DailyTasks&Notes/07-06-2024.md",
+    "Joseph's_Folder/The-Greatest-Comeback-OAT/MY PHILOSOPHY.md",
+    "Templates/Daily_Note.md",
+    "Templates/Book_Page_Template.md",
+    "Templates/novel_reference.md",
+    "Templates/Study_note_temp.md",
+    "Joseph's_Folder/DailyTasks&Notes/06-06-2024.md",
+    "Joseph's_Folder/DailyTasks&Notes/04-06-2024.md",
+    "Joseph's_Folder/Books/Bookshelf/Book-Pages/Brave New World.md",
+    "Joseph's_Folder/Books/Bookshelf/Book-Pages/img/Pasted image 20240605080054.png",
+    "Joseph's_Folder/Books/Bookshelf/Book-Pages/img/Pasted image 20240605075947.png",
+    "Joseph's_Folder/Canvases./Unhinged Book Idea Mindmap.canvas",
+    "Joseph's_Folder/Canvases.",
+    "Templates/Untitled",
+    "Joseph's_Folder/Books/Writing/Drafts-and-ideas.",
+    "files/11b-master-schedule.pdf",
+    "Joseph's_Folder/Music",
+    "Joseph's_Folder/Books/Bookshelf/Book-Pages/img/Pasted image 20240314101030.png",
+    "Templates/Pasted image 20240314100554.png",
+    "Joseph's_Folder/Books/Bookshelf/Book-Pages/img",
+    "Joseph's_Folder/Study/notes/Pasted image 20240312174639.png",
+    "Pasted image 20231114170108.png",
+    "Pasted image 20231114170106.png",
+    "Pasted image 20231114163939.png",
+    "Untitled.canvas",
+    "Anytype.20230828.204820.1/files/widget-sidebar.png",
+    "Anytype.20230828.204820.1/files/screenshot-2022-05-23-at-21-51-23.png"
+  ]
+}

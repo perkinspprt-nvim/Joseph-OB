@@ -1,0 +1,42 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "app:toggle-left-sidebar",
+      "icon": "align-end-vertical",
+      "name": "left sidebar",
+      "mode": "any"
+    },
+    {
+      "id": "create-note-in-folder:Create study-note",
+      "icon": "clipboard-copy",
+      "name": "Create Note in Folder: Create study-note",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

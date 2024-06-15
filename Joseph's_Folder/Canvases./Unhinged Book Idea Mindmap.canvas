@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6cb63645051c42a6","x":-155,"y":-107,"width":250,"height":107,"type":"text","text":"It needs to have a complex story line that progresses"},
+		{"id":"a3cc4b68a99865cd","x":-400,"y":34,"width":245,"height":86,"type":"text","text":"Setting : DARK and Horrible place to be."},
+		{"id":"8c9cf8f8979cc473","x":-155,"y":-240,"width":250,"height":60,"type":"text","text":"Fallen Gods"},
+		{"id":"92468835d4d5d311","x":-154,"y":130,"width":250,"height":60,"type":"text","text":"MC : Horrible life & lots of suffering."}
+	],
+	"edges":[
+		{"id":"6b4c075fa9596624","fromNode":"8c9cf8f8979cc473","fromSide":"bottom","toNode":"6cb63645051c42a6","toSide":"top"},
+		{"id":"a5401f1975651630","fromNode":"6cb63645051c42a6","fromSide":"bottom","toNode":"a3cc4b68a99865cd","toSide":"top"},
+		{"id":"162da37a271118a2","fromNode":"6cb63645051c42a6","fromSide":"bottom","toNode":"92468835d4d5d311","toSide":"top"}
+	]
+}

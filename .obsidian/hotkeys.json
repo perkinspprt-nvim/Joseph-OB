@@ -1,0 +1,39 @@
+{
+  "quick-explorer:go-last": [],
+  "quick-explorer:go-next": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "."
+    }
+  ],
+  "quick-explorer:go-prev": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": ","
+    }
+  ],
+  "obsidian-hider:toggle-app-ribbon": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
+}

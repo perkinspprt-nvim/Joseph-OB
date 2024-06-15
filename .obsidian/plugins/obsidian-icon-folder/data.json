@@ -1,0 +1,29 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🎸",
+      "🌍",
+      "📖",
+      "TiStars",
+      "TiHomeSearch"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "Homepage.md": "🌍",
+  "Joseph's_Folder/Study/Study-Homepage.md": "📖",
+  "Joseph's_Folder/The-Greatest-Comeback-OAT/MY PHILOSOPHY.md": "TiStars",
+  "Joseph's_Folder/Music/Fun in Music.md": "🎸"
+}

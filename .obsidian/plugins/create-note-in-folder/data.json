@@ -1,0 +1,29 @@
+{
+  "folder": [
+    {
+      "path": "Joseph's_Folder/Study/notes/",
+      "commandName": "Create study-note",
+      "template": {
+        "type": "none",
+        "format": "",
+        "position": "append",
+        "separator": "",
+        "increment": true
+      },
+      "fileName": "Untitled",
+      "opening": "newTab",
+      "focused": true,
+      "splitDefault": "horizontal",
+      "alreadyExistOpening": {
+        "opening": "newTab",
+        "splitDefault": "horizontal",
+        "focused": true
+      },
+      "fileMenu": false,
+      "templater": "Templates/Study_note_temp.md"
+    }
+  ],
+  "customVariables": [],
+  "timeOutForInlineTitle": 50,
+  "enableAllFolder": false
+}
